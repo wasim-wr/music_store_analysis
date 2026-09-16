@@ -1,4 +1,4 @@
-![Dashboard Preview](music-store-dashboard.PNG.PNG)
+![Dashboard Preview](music-store-dashboard.PNG)
 # 🎵 Music Store Analysis Dashboard
 
 A business intelligence dashboard built to analyze music store sales, customer behavior, and artist performance.
